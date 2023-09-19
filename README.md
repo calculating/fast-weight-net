@@ -1,2 +1,7 @@
-# fast-weight-net
-Experimenting with second-order gradient steps in Pytorch
+metaweights.ipynb should contain the code that ended up working.
+
+weight kernel view
+![](weight_kernels.png)
+
+checking ops with an add-one
+![](update_graph.png)
